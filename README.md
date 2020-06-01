@@ -22,11 +22,6 @@ To deploy on your own Cloudflare account:
 wrangler publish
 ```
 
-## Live Demo
+## Stolen from
 
 The product is live at https://telex.blog
-
-## Discuss
-
-- https://news.ycombinator.com/item?id=21325427
-- https://hashnode.com/post/building-a-serverless-doc-writing-app-using-cloudflare-workers-and-kv-store-ck236aou1001e8os1esou2fac
